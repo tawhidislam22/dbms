@@ -2,15 +2,8 @@
 
 ## Overview & Objectives
 
-This assignment is designed to evaluate your understanding of database table design, ERD relationships and SQL queries. You will work with a simplified Vehicle Rental System database.
+This project is designed to evaluate your understanding of database table design, ERD relationships and SQL queries. You will work with a simplified Vehicle Rental System database.
 
-By completing this assignment, you will be able to:
-
-- Design an ERD with 1 to 1, 1 to Many and Many to 1 relationships
-- Understand primary keys and foreign keys
-- Write SQL queries using JOIN, EXISTS and WHERE
-
----
 
 ## Database Design & Business Logic
 
